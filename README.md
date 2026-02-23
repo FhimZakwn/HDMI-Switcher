@@ -9,3 +9,6 @@ The initial release of the HDMI Switcher.
   - Manual toggle for HDMI output state.
   - Live LED feedback based on connection status.
   - Safe exit routine to clean up GPIO pins.
+
+## Version 1.0.1 (Terminal Control)
+- Added terminal status feedback.
